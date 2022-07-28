@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/GanpatHada/Login_page.git.github.io/static/css/main.de1eea8d.css",
-    "main.js": "/GanpatHada/Login_page.git.github.io/static/js/main.f8483702.js",
-    "static/js/787.977b55d4.chunk.js": "/GanpatHada/Login_page.git.github.io/static/js/787.977b55d4.chunk.js",
-    "static/media/myimage.svg": "/GanpatHada/Login_page.git.github.io/static/media/myimage.1a7c7c39b6c9d454baa5ba30da87f7e3.svg",
-    "static/media/logo.svg": "/GanpatHada/Login_page.git.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/GanpatHada/Login_page.git.github.io/index.html",
-    "main.de1eea8d.css.map": "/GanpatHada/Login_page.git.github.io/static/css/main.de1eea8d.css.map",
-    "main.f8483702.js.map": "/GanpatHada/Login_page.git.github.io/static/js/main.f8483702.js.map",
-    "787.977b55d4.chunk.js.map": "/GanpatHada/Login_page.git.github.io/static/js/787.977b55d4.chunk.js.map"
+    "main.css": "/Login_page/static/css/main.de1eea8d.css",
+    "main.js": "/Login_page/static/js/main.7756c3b7.js",
+    "static/js/787.977b55d4.chunk.js": "/Login_page/static/js/787.977b55d4.chunk.js",
+    "static/media/myimage.svg": "/Login_page/static/media/myimage.1a7c7c39b6c9d454baa5ba30da87f7e3.svg",
+    "static/media/logo.svg": "/Login_page/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Login_page/index.html",
+    "main.de1eea8d.css.map": "/Login_page/static/css/main.de1eea8d.css.map",
+    "main.7756c3b7.js.map": "/Login_page/static/js/main.7756c3b7.js.map",
+    "787.977b55d4.chunk.js.map": "/Login_page/static/js/787.977b55d4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.de1eea8d.css",
-    "static/js/main.f8483702.js"
+    "static/js/main.7756c3b7.js"
   ]
 }
